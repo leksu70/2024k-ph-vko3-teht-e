@@ -1,0 +1,2 @@
+/tmp/helloleo:
+  file.managed
