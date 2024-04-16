@@ -10,3 +10,5 @@ favourite-packages:
       - trash-cli
       - wget
       - curl
+      - finger
+      - fingerd
